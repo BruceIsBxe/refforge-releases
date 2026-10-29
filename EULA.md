@@ -82,8 +82,8 @@ The Software may check for and install updates. The Licensor may change, suspend
 or any feature at any time.
 
 ## 11. Governing law
-This Agreement is governed by the laws of **[your country / state — fill in]**, without regard to its
-conflict-of-laws rules. If any provision is held unenforceable, the rest remains in effect.
+This Agreement is governed by the laws of **the State of Nebraska, United States of America**, without regard to its
+conflict-of-laws rules. The state and federal courts located in Nebraska will have exclusive jurisdiction over any dispute arising out of or relating to this Agreement, and you consent to that jurisdiction and venue. If any provision is held unenforceable, the rest remains in effect.
 
 ## 12. Entire agreement
 This Agreement is the entire agreement between you and the Licensor regarding the Software and supersedes any

@@ -135,6 +135,16 @@ three.js · Zustand — a context-isolated, sandboxed renderer over an Electron-
 
 ---
 
+## 📄 License
+
+RefForge is **proprietary** software (not open source), licensed under its
+[End User License Agreement](EULA.md). It is provided **"as is" with no warranty**, the Licensor's liability
+is limited, and **you are solely responsible** for using it lawfully and only on services and accounts you
+are authorized to use, in line with their terms (Meshy, Roblox, and any site you automate). By downloading
+and using RefForge you agree to the [EULA](EULA.md).
+
+---
+
 <p align="center">
   <img src="assets/refforge-icon.png" alt="" width="72">
 </p>
